@@ -1,0 +1,19 @@
+cd C:/Users/jpcs/Desktop/proyectovlue
+
+git status
+
+
+git add .
+
+git commit -m "Subiendo proyecto Vue"
+
+git push
+
+
+cd C:/Users/jpcs/Desktop/proyectovlue
+git init
+git branch -M main
+git remote add origin https://github.com/josecs1027/Josecsj.git
+git add .
+git commit -m "Primer commit proyecto Vue"
+git push -u origin main
